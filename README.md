@@ -26,6 +26,15 @@ Welcome to my GitHub profile! I'm a dynamic **Management Information Systems (MI
 
 ---
 
+## 🎓 **Education**
+
+**Bachelor of Science**  
+- **Institution**: Metro State University, Saint Paul, MN  
+- **Major**: Management Information Systems  
+- **GPA**: 3.9 (Summa Cum Laude)  
+
+---
+
 ## 🛠 **Skills**
 
 **Technical Skills**  
