@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a dynamic **Management Information Systems (MI
 
 ---
 
-## 🛠 **What I Do**
+## 💻 **What I Do**
 
 ### 💡 **Problem Solver**
 - I analyze and address root causes, design preventive strategies, and enhance system reliability.
@@ -88,7 +88,7 @@ I also offer **freelance services** to small businesses and startups, helping th
 
 ---
 
-## 🏓 **Beyond Work**
+## ⚽️ **Beyond Work**
 
 - **Chess & Sudoku** enthusiast, honing strategic thinking.  
 - **Arsenal FC** fan, cheering on the Gunners.  
@@ -100,6 +100,7 @@ I also offer **freelance services** to small businesses and startups, helping th
 ## 🌐 **Let’s Connect**
 
 📫 **Email:** mrlakewnahom@gmail.com  
+🖥️ **Portfolio Website:** [https://nahomlakew.github.io]  
 💼 **LinkedIn:** [https://www.linkedin.com/in/nahom-lakew-31b1a11b7]  
 🌐 **Linktree:** [https://linktr.ee/nahomlakew]  
 
